@@ -1,5 +1,4 @@
-# Personal-Website - Angela Yu's Web Development Course
-
+# Personal-Website 
 ## Table of contents
 
 - [Overview](#overview)
