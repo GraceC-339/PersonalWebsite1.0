@@ -19,7 +19,7 @@
 
 ### Links
 
-- Live Site URL: https://gracec-339.github.io/Personal-Website/
+- Live Site URL: https://gracec-339.github.io/PersonalWebsite1.0
 
 ## My process
 
